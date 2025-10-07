@@ -1,0 +1,1001 @@
+price,year,manufacturer,model,condition,fuel,title_status,transmission,drive,type,paint_color
+30590,2020,subaru,brz limited coupe 2d,good,gas,clean,other,rwd,coupe,white
+17500,2013,ram,2500,good,gas,clean,automatic,4wd,pickup,white
+7800,2010,honda,accord,excellent,gas,clean,automatic,fwd,sedan,black
+37990,2016,toyota,tundra double cab sr,good,gas,clean,other,4wd,pickup,black
+2500,2010,toyota,sequoia sr5 platinum,excellent,gas,clean,automatic,4wd,SUV,white
+5975,2012,ford,focus se,like new,gas,clean,automatic,fwd,sedan,silver
+15590,2016,kia,forte koup sx coupe 2d,good,gas,clean,other,fwd,coupe,red
+6999,2006,honda,civic,like new,gas,clean,manual,fwd,coupe,silver
+4500,2012,chevrolet,sonic,excellent,gas,clean,manual,fwd,hatchback,black
+18990,2019,volkswagen,jetta 1.4t s sedan 4d,good,gas,clean,other,fwd,sedan,silver
+47000,2015,ford,mustang roush rs3,like new,gas,clean,manual,rwd,coupe,white
+17990,2013,lincoln,mkz sedan 4d,good,gas,clean,automatic,fwd,sedan,white
+8000,2013,chevrolet,express heavy duty,excellent,gas,clean,automatic,rwd,SUV,blue
+18990,2020,chevrolet,spark activ hatchback,good,gas,clean,other,fwd,hatchback,black
+62521,2019,cadillac,escalade esv,excellent,gas,clean,automatic,4wd,SUV,white
+35900,2017,ford,f150 super crew xlt,excellent,gas,clean,automatic,4wd,pickup,blue
+19590,2019,chevrolet,trax lt sport utility,good,other,clean,other,fwd,hatchback,white
+26000,2012,lexus,is350c,excellent,gas,clean,automatic,rwd,convertible,white
+5875,2011,ford,fusion hybrid,excellent,hybrid,clean,automatic,fwd,sedan,red
+7999,2014,dodge,grand caravan,good,gas,clean,automatic,fwd,mini-van,blue
+27998,2017,dodge,charger scat pack daytona,excellent,gas,salvage,automatic,rwd,sedan,grey
+15590,2018,ford,focus se sedan 4d,good,other,clean,automatic,fwd,sedan,silver
+23590,2018,mitsubishi,outlander phev gt,good,other,clean,other,4wd,other,white
+20900,2018,ford,transit connect van,good,gas,clean,automatic,fwd,van,white
+11900,2006,gmc,sierra 2500hd,good,gas,clean,automatic,rwd,truck,green
+3900,2009,honda,accord lx,excellent,gas,clean,automatic,fwd,sedan,blue
+35900,2012,gmc,sierra 2500hd,excellent,diesel,clean,automatic,4wd,truck,red
+52000,2019,chevrolet,silverado 1500,like new,gas,clean,automatic,4wd,pickup,grey
+10599,2012,chevrolet,traverse,excellent,gas,clean,automatic,fwd,SUV,red
+39500,2007,ford,f-650 dump,like new,diesel,clean,automatic,rwd,truck,white
+7500,2015,nissan,sentra,like new,gas,clean,automatic,fwd,sedan,black
+20990,2016,dodge,charger sxt sedan 4d,good,gas,clean,other,rwd,sedan,black
+17900,2017,honda,civic,excellent,gas,clean,automatic,fwd,sedan,red
+21900,2017,subaru,outback limited awd,like new,gas,clean,automatic,4wd,wagon,grey
+31995,2016,ram,1500,excellent,gas,clean,automatic,4wd,pickup,white
+7500,2013,ford,taurus,excellent,gas,clean,automatic,4wd,sedan,silver
+2500,2013,chevrolet,equinox,excellent,gas,clean,automatic,4wd,SUV,blue
+65000,1957,chevrolet,belair 1957,new,gas,clean,automatic,rwd,coupe,black
+6249,2009,nissan,altima,fair,gas,clean,automatic,fwd,other,grey
+13900,2012,bmw,740i,excellent,gas,clean,automatic,rwd,sedan,grey
+13990,2019,hyundai,elantra,good,gas,clean,automatic,fwd,sedan,black
+8500,2014,volkswagen,tiguan,excellent,gas,clean,automatic,fwd,SUV,silver
+14200,2016,kia,sportage lx awd,excellent,gas,clean,automatic,4wd,SUV,white
+24990,2017,gmc,savana commercial cutaway,good,gas,clean,automatic,rwd,truck,white
+6998,2008,toyota,corolla,excellent,gas,clean,automatic,fwd,sedan,silver
+6400,2008,volvo,c70 convertible,like new,gas,clean,automatic,fwd,convertible,black
+5000,2005,subaru,legacy,good,gas,clean,manual,4wd,sedan,blue
+21988,2006,ford,f-350 super duty,excellent,diesel,clean,automatic,4wd,pickup,white
+6500,2005,subaru,baja,fair,gas,clean,manual,4wd,truck,black
+4000,2002,chrysler,concorde limited,excellent,gas,clean,automatic,fwd,sedan,red
+23501,2019,honda,civic,like new,gas,clean,automatic,fwd,hatchback,black
+19800,2011,chevrolet,suburban ltz,excellent,gas,clean,automatic,4wd,SUV,brown
+19590,2017,mitsubishi,outlander se sport,good,other,clean,other,4wd,SUV,brown
+20990,2013,hyundai,equus signature sedan 4d,good,gas,clean,other,rwd,sedan,white
+23995,2015,ford,transit,good,gas,clean,automatic,rwd,van,custom
+11990,2014,ford,focus electric hatchback 4d,good,electric,clean,other,fwd,hatchback,blue
+9999,2013,subaru,xv crosstrek 2.0i premium,excellent,gas,clean,automatic,4wd,wagon,blue
+6925,2007,jeep,grand cherokee,excellent,gas,clean,automatic,rwd,SUV,green
+6995,1997,ford,f-150,good,gas,clean,automatic,4wd,truck,blue
+55000,2019,chevrolet,silverado,like new,gas,clean,automatic,4wd,truck,white
+6990,2004,chevrolet,silverado 1500,good,gas,clean,automatic,4wd,truck,grey
+21995,2011,chevrolet,silverado 2500,excellent,gas,clean,automatic,4wd,truck,silver
+14990,2013,ford,c-max hybrid sel wagon 4d,good,other,clean,other,fwd,wagon,white
+10995,2014,volkswagen,passat,good,gas,clean,automatic,4wd,sedan,black
+30995,2019,ford,transit 250 cargo van,like new,gas,clean,automatic,rwd,van,white
+39990,2018,gmc,sierra 1500 double cab slt,good,gas,clean,automatic,4wd,pickup,white
+3500,1995,ford,taurus gl,excellent,gas,clean,automatic,fwd,sedan,blue
+29995,2016,toyota,tacoma,excellent,gas,clean,automatic,4wd,pickup,silver
+61999,2021,toyota,supra a91,like new,gas,lien,automatic,rwd,coupe,blue
+33950,2016,chevrolet,silverado,excellent,gas,clean,automatic,4wd,truck,black
+15590,2016,kia,soul wagon 4d,good,gas,clean,other,fwd,wagon,brown
+10499,2017,dodge,grand caravan,excellent,gas,clean,automatic,fwd,mini-van,white
+5896,2014,chevrolet,sonic,excellent,gas,clean,automatic,fwd,hatchback,blue
+23500,2017,gmc,savana 2500,like new,gas,clean,automatic,rwd,van,white
+12788,2010,lexus,gs 350,like new,gas,clean,automatic,rwd,sedan,silver
+14950,2008,honda,ridgeline 4x4 rtl! local a,excellent,gas,clean,automatic,4wd,pickup,black
+43995,2018,ford,f150 supercrew stx,like new,gas,clean,automatic,4wd,truck,grey
+7950,2013,ford,focus,excellent,gas,clean,automatic,fwd,hatchback,silver
+1000,1997,ford,f-150,good,gas,clean,automatic,4wd,pickup,red
+2500,2006,saturn,ion,excellent,gas,clean,automatic,fwd,sedan,white
+8900,2012,volkswagen,cc,excellent,gas,clean,automatic,fwd,sedan,grey
+28995,2016,ram,1500,good,gas,clean,automatic,4wd,truck,blue
+23995,2015,ram,1500 4x4,like new,gas,clean,automatic,4wd,truck,grey
+4250,2004,chevrolet,silverado,fair,gas,clean,manual,4wd,pickup,red
+7495,2013,ford,edge limited sel,excellent,gas,clean,automatic,fwd,SUV,white
+24990,2017,fiat,124 spider classica,good,gas,clean,other,rwd,other,black
+39590,2018,toyota,4runner limited sport,good,gas,clean,other,4wd,other,red
+4995,2008,bmw,3-series,excellent,gas,clean,automatic,rwd,sedan,grey
+500,2017,toyota,camry,excellent,gas,clean,automatic,fwd,sedan,green
+4900,2007,ford,ranger,excellent,gas,clean,automatic,rwd,pickup,white
+10995,2007,chevrolet,tahoe ltz,good,gas,clean,automatic,4wd,SUV,black
+16590,2020,kia,soul s wagon 4d,good,gas,clean,other,fwd,wagon,silver
+28250,2017,lexus,es,excellent,gas,clean,automatic,fwd,sedan,black
+28990,2013,mercedes-benz,cls-class cls 550,good,gas,clean,other,rwd,coupe,white
+31590,2018,lexus,nx 300 sport utility 4d,good,gas,clean,other,fwd,hatchback,black
+22995,2002,chevrolet,camaro,good,gas,clean,manual,rwd,coupe,red
+1200,2002,hyundai,santa fe,good,gas,clean,automatic,fwd,SUV,green
+18998,2017,mazda,cx-5,good,gas,clean,automatic,fwd,SUV,blue
+1700,2001,ford,windstar van,good,gas,clean,automatic,fwd,mini-van,silver
+18990,2018,kia,sorento lx sport utility 4d,good,gas,clean,automatic,fwd,SUV,blue
+2500,2001,pontiac,firebird,fair,gas,clean,automatic,rwd,convertible,white
+16590,2015,volkswagen,beetle 1.8t fleet,good,gas,clean,other,fwd,hatchback,black
+11900,2008,ford,explorer sport trac,excellent,gas,clean,automatic,4wd,pickup,brown
+8999,2016,nissan,versa,excellent,gas,clean,automatic,fwd,sedan,black
+9800,2017,nissan,nv200,excellent,gas,clean,automatic,fwd,mini-van,white
+13500,2011,audi,s5,excellent,gas,clean,automatic,4wd,coupe,black
+26995,2002,lexus,sc430,like new,gas,clean,automatic,rwd,convertible,purple
+3700,2007,ford,explorer,good,gas,clean,automatic,4wd,truck,brown
+26995,2008,ford,super duty f-350 20k m/flat bed reg cab/,good,gas,clean,automatic,rwd,pickup,blue
+25990,2018,acura,rdx technology pkg sport,good,gas,clean,other,fwd,other,blue
+33990,2018,gmc,sierra 1500 double cab sle,good,gas,clean,other,4wd,pickup,white
+3999,2007,ford,escape xlt,excellent,gas,clean,automatic,fwd,SUV,red
+37590,2017,chevrolet,colorado crew cab zr2,good,other,clean,other,4wd,pickup,blue
+23990,2020,toyota,corolla hatchback xse 4d,good,gas,clean,other,fwd,hatchback,blue
+17590,2016,volkswagen,beetle 1.8t s,good,gas,clean,automatic,fwd,hatchback,red
+12999,2012,ford,transit connect wagon,excellent,gas,clean,automatic,fwd,mini-van,silver
+18995,2011,jeep,wrangler,excellent,gas,clean,other,4wd,SUV,black
+5500,2008,ford,edge sel,excellent,gas,clean,automatic,4wd,SUV,black
+14995,2014,toyota,rav4,excellent,gas,clean,automatic,4wd,SUV,white
+3995,2010,hyundai,elantra,excellent,gas,clean,automatic,fwd,sedan,silver
+32000,1963,chevrolet,nova ss,like new,gas,clean,automatic,rwd,coupe,white
+31900,2019,ford,transit,like new,gas,clean,automatic,rwd,van,white
+21995,2017,bmw,3-series,good,gas,clean,automatic,rwd,sedan,custom
+12000,2003,dodge,grand caravan wheelchair,excellent,gas,clean,automatic,rwd,mini-van,silver
+3200,2005,toyota,corolla,excellent,gas,clean,automatic,fwd,sedan,silver
+6790,2007,ram,1500,good,gas,clean,automatic,rwd,truck,custom
+18900,2020,chevrolet,malibu,excellent,gas,clean,automatic,fwd,sedan,black
+16990,2012,lexus,ct 200h premium hatchback,good,hybrid,clean,other,fwd,hatchback,red
+19999,2002,ford,pickup,good,diesel,clean,automatic,4wd,pickup,blue
+26590,2017,nissan,titan xd single cab sv,good,gas,clean,other,4wd,pickup,white
+2995,2001,mitsubishi,montero sport,excellent,gas,clean,automatic,4wd,SUV,green
+14990,2020,chevrolet,trax ls,excellent,gas,rebuilt,automatic,fwd,SUV,white
+13500,2015,acura,ilx sedan 4d,excellent,gas,clean,automatic,fwd,sedan,white
+16880,2012,nissan,titan,good,gas,clean,automatic,4wd,truck,red
+6300,2005,chevrolet,suburban,good,gas,clean,automatic,rwd,SUV,custom
+36990,2019,chevrolet,silverado 1500 ld,good,gas,clean,other,4wd,pickup,red
+8000,2015,hyundai,elantra,good,gas,clean,automatic,fwd,sedan,grey
+7500,2014,ford,focus,excellent,gas,rebuilt,automatic,fwd,sedan,silver
+4300,2003,mazda,protege5,good,gas,clean,manual,fwd,wagon,black
+6990,2008,nissan,xterra,good,gas,clean,automatic,4wd,SUV,grey
+4950,2017,honda,civic lx,like new,gas,clean,automatic,rwd,truck,blue
+11500,2012,bmw,128i convertible,excellent,gas,clean,automatic,rwd,convertible,black
+21590,2016,hyundai,genesis 3.8 sedan 4d,good,gas,clean,automatic,rwd,sedan,white
+75000,1966,chevrolet,chevelle convertible,excellent,gas,clean,automatic,rwd,convertible,black
+19921,2016,honda,accord sedan ex-l,good,other,clean,automatic,fwd,sedan,red
+52997,2018,tesla,model s,excellent,gas,clean,automatic,4wd,hatchback,black
+25290,2017,ford,explorer,excellent,gas,clean,automatic,fwd,SUV,white
+15590,2016,chevrolet,cruze limited 1lt,good,gas,clean,automatic,fwd,sedan,blue
+41999,2016,chevrolet,tahoe ltz,excellent,gas,clean,automatic,4wd,SUV,black
+34990,2014,toyota,tacoma double cab pickup,good,gas,clean,other,4wd,pickup,white
+18990,2020,chevrolet,spark activ hatchback,good,gas,clean,other,fwd,hatchback,black
+21590,2016,hyundai,genesis 3.8 sedan 4d,good,gas,clean,automatic,rwd,sedan,white
+6750,2013,nissan,altima,like new,gas,clean,automatic,fwd,sedan,silver
+4900,2008,chevrolet,silverado,good,gas,clean,automatic,4wd,pickup,blue
+38990,2017,jeep,wrangler unlimited rubicon,good,gas,clean,other,4wd,other,red
+5500,2009,jeep,patriot,good,gas,clean,automatic,rwd,SUV,silver
+19999,2015,chevrolet,silverado 1500,excellent,gas,clean,automatic,4wd,pickup,silver
+22988,2016,dodge,challenger,like new,gas,clean,automatic,rwd,coupe,grey
+1650,1999,honda,odyssey,fair,gas,clean,automatic,fwd,mini-van,blue
+34900,2012,ram,3500,excellent,diesel,clean,automatic,4wd,truck,white
+6000,2007,mercedes-benz,c-class,excellent,gas,clean,automatic,rwd,sedan,black
+13995,2013,ford,f-150,good,gas,clean,automatic,rwd,truck,white
+25000,2011,toyota,tundra,good,gas,clean,automatic,4wd,truck,white
+6990,2011,toyota,camry,excellent,gas,clean,automatic,fwd,sedan,black
+16900,2016,honda,accord,excellent,gas,clean,automatic,fwd,sedan,blue
+21000,2005,mercedes-benz,sl-class,like new,gas,clean,automatic,rwd,convertible,silver
+49000,2019,toyota,tacoma trd pro,excellent,gas,clean,automatic,4wd,truck,black
+15000,1975,ford,f350,good,gas,clean,manual,rwd,pickup,blue
+15000,2013,honda,civic,like new,gas,clean,automatic,fwd,sedan,silver
+11493,2015,hyundai,sonata hybrid limited,excellent,hybrid,clean,automatic,fwd,sedan,silver
+53900,2019,chevrolet,2500 lt 4x4 dmax,excellent,diesel,clean,automatic,4wd,pickup,white
+4750,2003,buick,lesabre custom,good,gas,clean,automatic,fwd,sedan,silver
+32990,2016,jeep,wrangler rubicon sport,good,gas,clean,other,4wd,other,silver
+16000,1980,jeep,cj7,excellent,gas,clean,automatic,4wd,truck,red
+18900,2018,toyota,prius prime,excellent,hybrid,rebuilt,automatic,fwd,hatchback,white
+18590,2014,bmw,2 series 228i coupe 2d,good,gas,clean,other,rwd,coupe,black
+22900,2019,nissan,nv2500,excellent,gas,rebuilt,automatic,rwd,van,white
+2400,2009,chevrolet,cobalt,good,gas,clean,manual,fwd,sedan,red
+9988,2017,hyundai,accent value edition,good,gas,clean,automatic,fwd,sedan,white
+19995,2014,ford,f150 lariat 4x4,excellent,gas,clean,automatic,4wd,pickup,white
+5500,2005,gmc,yukon denali,good,gas,clean,automatic,4wd,SUV,black
+4800,2005,nissan,pathfinder,good,gas,clean,automatic,fwd,SUV,grey
+9995,2013,kia,soul,excellent,gas,clean,automatic,fwd,SUV,white
+48900,2018,chevrolet,silverado 2500 hd ltz,like new,diesel,rebuilt,automatic,4wd,truck,black
+12999,2015,honda,accord lx,good,gas,clean,automatic,fwd,sedan,grey
+25590,2020,buick,encore gx select sport,good,gas,clean,automatic,fwd,SUV,red
+17495,2014,acura,mdx,excellent,gas,clean,automatic,4wd,SUV,white
+3950,2009,dodge,grand caravan,excellent,gas,clean,automatic,fwd,mini-van,white
+25990,2018,mazda,mx-5 miata grand touring,good,gas,clean,other,rwd,other,white
+3500,2010,toyota,yaris,good,gas,clean,automatic,fwd,coupe,silver
+1800,2007,chrysler,town and country,good,gas,clean,automatic,fwd,mini-van,blue
+8500,2007,mercedes-benz,ml320 cdi,excellent,diesel,clean,automatic,4wd,SUV,brown
+38990,2018,ford,f150 supercrew cab xlt,good,gas,clean,automatic,4wd,pickup,red
+5950,2010,ford,taurus sho awd,excellent,gas,clean,automatic,4wd,sedan,black
+24995,2014,jeep,wrangler unlimited sport,like new,gas,clean,automatic,4wd,offroad,black
+3400,2018,mitsubishi,outlander se,good,gas,clean,automatic,fwd,SUV,black
+17885,2014,ford,mustang,good,gas,clean,automatic,rwd,convertible,black
+2950,2004,mercury,sable,good,gas,clean,automatic,fwd,sedan,custom
+34990,2018,bmw,4 series 430i convertible 2d,good,gas,clean,other,rwd,other,black
+12498,2011,bmw,328i m3 coupe,excellent,gas,clean,automatic,rwd,coupe,white
+26990,2003,chevrolet,corvette z06,excellent,gas,clean,manual,rwd,coupe,yellow
+16590,2017,toyota,corolla im hatchback 4d,good,gas,clean,other,fwd,hatchback,silver
+2400,2001,ford,windstar van,fair,gas,clean,automatic,fwd,van,silver
+12900,2012,acura,tl,good,gas,clean,automatic,fwd,sedan,silver
+20000,2002,ford,thunderbird convertible,like new,gas,clean,automatic,rwd,convertible,yellow
+33990,2017,ford,mustang gt coupe 2d,good,gas,clean,other,rwd,coupe,black
+23990,2019,acura,ilx premium pkg sedan 4d,good,gas,clean,other,fwd,sedan,black
+9350,2013,volvo,s60 t5,excellent,gas,clean,automatic,4wd,sedan,blue
+3200,2001,volvo,s40,good,gas,clean,automatic,fwd,sedan,silver
+18800,2007,ford,f350 super duty,excellent,diesel,clean,automatic,4wd,truck,white
+5495,2011,jeep,compass sport,excellent,gas,clean,automatic,fwd,SUV,black
+20800,2020,kia,rio s,excellent,gas,clean,automatic,fwd,sedan,white
+33990,2007,chevrolet,cc4500,good,gas,clean,automatic,rwd,truck,white
+21995,2016,ram,promaster city cargo van,excellent,gas,clean,automatic,fwd,van,white
+22800,2013,rover,evoque,excellent,gas,clean,automatic,4wd,hatchback,black
+32990,2018,toyota,sienna xle minivan 4d,good,gas,clean,other,fwd,van,blue
+14990,2016,kia,soul wagon 4d,good,gas,clean,other,fwd,wagon,black
+5950,2013,chevrolet,sonic lt,excellent,gas,clean,manual,fwd,hatchback,blue
+6995,2007,jeep,patriot,excellent,gas,clean,automatic,fwd,SUV,custom
+7995,2009,chevrolet,silverado 1500,good,gas,clean,automatic,rwd,truck,red
+21995,2011,ram,3500,good,gas,clean,automatic,rwd,truck,white
+2000,2007,toyota,camry,good,gas,salvage,automatic,fwd,sedan,silver
+29990,2012,toyota,tacoma double cab pickup,good,gas,clean,other,4wd,pickup,white
+30590,2015,bmw,z4 sdrive28i roadster 2d,good,gas,clean,other,rwd,other,black
+15995,2010,ford,explorer sport trac,good,gas,clean,automatic,4wd,wagon,custom
+8999,2011,ford,flex,good,gas,clean,automatic,fwd,SUV,black
+41900,2019,ram,1500 crew cab,excellent,gas,clean,automatic,4wd,truck,red
+16900,2014,bmw,3 series,excellent,gas,clean,automatic,rwd,sedan,blue
+9500,2012,toyota,camry,excellent,gas,clean,automatic,fwd,sedan,silver
+21590,2017,buick,regal premium ii sedan 4d,good,gas,clean,other,fwd,sedan,white
+11990,2007,chevrolet,avalanche,good,gas,clean,automatic,4wd,SUV,black
+5700,2003,chevrolet,silverado 2500hd,good,gas,clean,automatic,4wd,truck,white
+2695,2006,chevrolet,hhr lt,excellent,gas,clean,automatic,fwd,sedan,red
+5500,2012,subaru,legacy,good,gas,clean,automatic,4wd,sedan,red
+7995,2006,chevrolet,silverado 1500 work tr,excellent,gas,clean,automatic,4wd,pickup,brown
+13500,2016,mitsubishi,outlander,excellent,gas,clean,automatic,fwd,SUV,white
+16996,2009,ford,super duty f-350 srw,good,gas,rebuilt,automatic,4wd,truck,green
+23900,2016,rover,discovery sport,excellent,gas,clean,automatic,4wd,SUV,black
+3800,2000,chevrolet,silverado 1500,good,gas,clean,automatic,rwd,truck,grey
+26495,2017,ford,transit 250 cargo van,excellent,gas,clean,automatic,rwd,van,white
+32990,2017,jeep,wrangler unlimited sport,good,gas,clean,other,4wd,other,silver
+5900,2010,subaru,impreza,good,gas,clean,automatic,4wd,wagon,grey
+4999,2004,jaguar,xj,good,gas,clean,automatic,rwd,other,grey
+4700,2008,chrysler,town and country,good,gas,clean,automatic,fwd,van,black
+18990,2018,hyundai,sonata sel sedan 4d,good,gas,clean,other,fwd,sedan,white
+6995,2007,pontiac,soltice,excellent,gas,clean,automatic,fwd,convertible,silver
+17999,2013,bmw,328i sulev,like new,gas,clean,automatic,rwd,sedan,custom
+6800,2006,lincoln,navigator,excellent,gas,clean,automatic,rwd,SUV,grey
+5990,2002,mazda,tribute,good,gas,clean,automatic,4wd,SUV,grey
+19924,2017,mazda,cx-3,like new,gas,clean,automatic,4wd,SUV,blue
+14500,2014,honda,odyssey,excellent,gas,clean,automatic,fwd,mini-van,silver
+15000,2005,gmc,sierra,good,gas,clean,automatic,4wd,truck,grey
+18500,2011,chevrolet,silverado 1500,excellent,gas,clean,automatic,4wd,pickup,white
+19000,2012,chevrolet,tahoe lt 4wd,like new,gas,clean,automatic,4wd,SUV,black
+56988,2019,ford,f350 crew cab 4x4 flat bed,like new,gas,clean,automatic,4wd,truck,white
+4000,2008,chrysler,aspen,fair,gas,rebuilt,automatic,4wd,SUV,white
+7950,2010,ford,explorer xlt,good,gas,clean,automatic,4wd,SUV,silver
+4500,2010,honda,civic,good,gas,clean,automatic,fwd,coupe,black
+6995,2007,jeep,patriot,excellent,gas,clean,automatic,fwd,SUV,custom
+12900,2012,acura,tl,good,gas,clean,automatic,fwd,sedan,silver
+26990,2014,lexus,ls 460 sedan 4d,good,other,clean,automatic,rwd,sedan,red
+27590,2017,cadillac,xt5 luxury sport,good,other,clean,other,fwd,SUV,silver
+5500,2005,infiniti,g35,good,gas,clean,automatic,fwd,coupe,black
+32990,2015,ford,f150 supercrew cab xlt,good,gas,clean,other,4wd,pickup,blue
+24477,2017,mini,convertible cooper s,good,gas,clean,automatic,fwd,other,red
+9995,2015,subaru,impreza hatchback,excellent,gas,rebuilt,automatic,4wd,hatchback,black
+2650,2004,honda,accord lx 4dr 5 speed,good,gas,clean,manual,fwd,sedan,blue
+10491,2006,toyota,sequoia sr5,like new,gas,clean,automatic,rwd,SUV,black
+13200,2015,buick,enclave,excellent,gas,clean,automatic,4wd,SUV,grey
+20499,2014,ford,mustang,good,gas,clean,automatic,rwd,convertible,black
+12000,2006,toyota,tacoma,excellent,gas,clean,automatic,rwd,truck,blue
+9995,2017,hyundai,veloster,good,gas,clean,automatic,fwd,coupe,silver
+13900,2009,bmw,328i xdrive luxury,excellent,gas,clean,automatic,4wd,sedan,black
+13900,2011,infiniti,ex,excellent,gas,clean,automatic,4wd,SUV,red
+16990,2018,toyota,corolla im hatchback 4d,good,gas,clean,other,fwd,hatchback,blue
+39590,2012,chevrolet,corvette grand sport,good,gas,clean,other,rwd,convertible,black
+36500,2017,ford,f-150,excellent,gas,clean,automatic,4wd,truck,silver
+14590,2014,toyota,prius c four hatchback 4d,good,other,clean,other,fwd,hatchback,red
+12500,2013,honda,crv ex-l,excellent,gas,clean,automatic,fwd,SUV,brown
+8500,2016,dodge,grand caravan sxt,excellent,gas,clean,automatic,fwd,mini-van,black
+2000,2005,ford,five hundred,good,gas,clean,automatic,fwd,sedan,green
+5495,2006,chevrolet,uplander,excellent,gas,clean,automatic,fwd,mini-van,blue
+7495,2010,ford,taurus,good,gas,clean,automatic,fwd,sedan,black
+36500,2018,ford,f-150 xlt,good,other,clean,other,rwd,pickup,white
+30500,2018,jeep,grand cherokee,excellent,gas,lien,manual,4wd,SUV,blue
+6000,2005,acura,mdx,like new,gas,clean,automatic,fwd,SUV,silver
+5500,2010,chevrolet,equinox lt,good,gas,clean,automatic,4wd,SUV,grey
+5500,2014,ford,focus,good,gas,clean,automatic,fwd,hatchback,silver
+22995,2016,chevrolet,silverado 1500,like new,gas,clean,automatic,4wd,pickup,white
+17990,2013,volkswagen,beetle tdi hatchback,good,other,clean,other,fwd,hatchback,black
+18500,2019,nissan,rogue,like new,gas,clean,automatic,fwd,other,silver
+3200,2009,volkswagen,gti,fair,gas,clean,manual,fwd,hatchback,black
+3600,2007,jeep,liberty,excellent,gas,clean,manual,4wd,SUV,green
+12500,2015,nissan,altima sv,excellent,gas,clean,automatic,fwd,sedan,black
+6400,2005,lexus,es-339,good,gas,clean,automatic,fwd,sedan,black
+5200,2008,chevrolet,trailblazer,good,gas,clean,automatic,4wd,SUV,silver
+19990,2020,chevrolet,trax ls sport utility,good,gas,clean,other,fwd,hatchback,silver
+15000,2014,lincoln,mkz,excellent,gas,clean,automatic,fwd,sedan,custom
+37590,2015,rover,range sport hse,good,gas,clean,other,4wd,other,silver
+38990,2018,ford,f150 supercrew cab xlt,good,gas,clean,automatic,4wd,pickup,red
+3000,2005,nissan,titan xe crew cab,good,gas,clean,automatic,4wd,pickup,silver
+3500,1998,chevrolet,ck 2500,fair,gas,clean,automatic,rwd,pickup,white
+24999,2009,ram,1500 slt,like new,gas,clean,automatic,4wd,truck,white
+25990,2011,ford,mustang gt premium,good,gas,clean,other,rwd,other,blue
+26995,2017,gmc,savana cargo van,good,other,clean,automatic,rwd,van,white
+33590,2012,toyota,fj cruiser sport utility,good,gas,clean,other,4wd,other,black
+3800,1999,jeep,wrangler sport,good,gas,clean,automatic,4wd,offroad,white
+29990,2016,ford,f150 super cab xl pickup 4d,good,gas,clean,other,4wd,pickup,red
+7995,2015,dodge,grand caravan se,excellent,gas,clean,automatic,fwd,mini-van,red
+25590,2017,ford,mustang v6 convertible 2d,good,gas,clean,other,rwd,convertible,red
+2500,2008,bmw,550i,like new,gas,clean,automatic,rwd,sedan,black
+5500,2004,toyota,4runner,good,gas,clean,automatic,4wd,SUV,black
+9995,2013,ford,escape sel 4x4,excellent,gas,clean,automatic,4wd,SUV,red
+10995,2007,ford,f-150,excellent,gas,clean,automatic,4wd,other,grey
+13000,2011,volkswagen,gti,excellent,gas,clean,manual,fwd,hatchback,blue
+25999,2017,subaru,wrx premium,excellent,gas,clean,manual,4wd,sedan,blue
+9500,2010,mercedes-benz,benz glk 350,excellent,gas,clean,automatic,4wd,SUV,black
+1400,2003,pontiac,grand am,fair,gas,clean,automatic,fwd,sedan,grey
+4700,2007,buick,rendezvous,good,gas,clean,automatic,fwd,SUV,white
+2500,2004,saturn,ion,good,gas,clean,automatic,fwd,sedan,red
+13000,2015,toyota,tacoma,fair,gas,salvage,manual,rwd,truck,white
+10000,2009,audi,a4 convertible,good,gas,clean,automatic,4wd,convertible,black
+26500,2013,ford,f-150 xlt 4x4,excellent,gas,clean,automatic,4wd,pickup,green
+8100,2009,toyota,camry,like new,gas,clean,automatic,rwd,sedan,red
+16781,2011,ford,ranger xlt,like new,gas,clean,automatic,4wd,truck,silver
+36590,2017,chevrolet,silverado 1500 double,good,gas,clean,other,4wd,pickup,red
+6500,2008,ford,crown victoria police,good,gas,clean,automatic,rwd,sedan,blue
+19590,2018,dodge,journey se sport utility,good,gas,clean,other,fwd,other,white
+15900,2016,mazda,cx-5,good,gas,clean,automatic,fwd,wagon,grey
+30000,2015,bmw,550i xdrive,good,gas,clean,automatic,4wd,sedan,black
+5350,2012,ford,fusion se,good,gas,rebuilt,automatic,fwd,sedan,custom
+29999,2015,jeep,wrangler sahara,excellent,gas,clean,manual,4wd,SUV,white
+8450,2013,nissan,quest sv,excellent,gas,clean,automatic,fwd,mini-van,black
+19500,2008,toyota,tundra crewmax,fair,gas,clean,automatic,4wd,truck,blue
+32590,2020,infiniti,q50 3.0t sport sedan 4d,good,gas,clean,other,rwd,sedan,blue
+22500,2004,chevrolet,corvette,excellent,gas,clean,manual,rwd,convertible,red
+9995,2012,volkswagen,tiguan sel,excellent,gas,clean,automatic,4wd,SUV,black
+26590,2018,lincoln,mkz premiere hybrid,good,gas,clean,other,fwd,sedan,white
+3495,2009,pontiac,g5 coupe,good,gas,rebuilt,automatic,fwd,coupe,green
+6900,2009,volkswagen,beetle convertible,excellent,gas,clean,automatic,fwd,convertible,silver
+4200,2008,volkswagen,jetta,good,gas,clean,automatic,fwd,coupe,silver
+3900,2008,dodge,grand caravan,good,gas,clean,automatic,rwd,mini-van,red
+2800,2001,chevrolet,silverado,good,gas,clean,automatic,rwd,truck,red
+12900,2013,jeep,grand cherokee laredo,excellent,gas,clean,automatic,4wd,SUV,black
+30990,2011,mercedes-benz,sl-class sl 550,good,hybrid,clean,automatic,rwd,convertible,silver
+26990,2016,chevrolet,express commercial cutaway,good,gas,clean,automatic,rwd,truck,white
+30990,2014,jaguar,f-type convertible 2d,good,gas,clean,other,rwd,other,white
+25495,2014,toyota,tundra,excellent,gas,clean,automatic,rwd,pickup,black
+39000,1969,chevrolet,chevelle,excellent,gas,clean,automatic,rwd,coupe,silver
+1800,2006,mitsubishi,eclipse,fair,gas,clean,automatic,4wd,coupe,blue
+19240,2019,honda,civic,excellent,gas,clean,automatic,fwd,sedan,black
+6495,2009,dodge,charger,good,gas,clean,automatic,rwd,sedan,white
+14800,2013,honda,cr-v,excellent,gas,clean,automatic,fwd,SUV,brown
+28775,2019,jeep,cherokee altitude,excellent,gas,clean,automatic,4wd,SUV,black
+11950,2012,acura,mdx sport,excellent,gas,clean,automatic,4wd,SUV,black
+2700,1989,cadillac,seville,good,gas,clean,automatic,rwd,coupe,white
+4995,2007,bmw,3 series,good,gas,clean,automatic,fwd,coupe,blue
+4310,2004,volkswagen,jettavolkswagen,excellent,diesel,clean,manual,fwd,hatchback,red
+16895,2015,chevrolet,impala,good,gas,clean,automatic,fwd,sedan,silver
+10699,2013,volkswagen,passat,good,gas,clean,automatic,fwd,sedan,silver
+37990,2016,chevrolet,camaro ss coupe 2d,good,gas,clean,other,rwd,coupe,red
+3495,2010,ford,escape xlt,good,gas,clean,automatic,fwd,SUV,red
+5900,2007,dodge,nitro slt,excellent,gas,clean,automatic,4wd,SUV,black
+10495,2014,chevrolet,cruze lt,excellent,gas,clean,automatic,fwd,sedan,white
+7977,2009,honda,pilot ex-l 4wd,good,gas,clean,automatic,4wd,SUV,silver
+1800,2000,honda,accord,good,gas,rebuilt,manual,fwd,sedan,silver
+21950,2013,chevrolet,silverado 2500hd,good,gas,clean,automatic,4wd,truck,blue
+9995,2014,ford,escape se,excellent,gas,clean,automatic,4wd,sedan,black
+24995,2013,subaru,wrx,excellent,gas,clean,manual,4wd,coupe,orange
+8995,2008,audi,a5,excellent,gas,clean,automatic,4wd,coupe,silver
+28700,2016,lincoln,navigator suv,excellent,gas,clean,automatic,rwd,SUV,grey
+17281,2018,nissan,sentra,excellent,gas,clean,automatic,fwd,sedan,black
+5200,2013,nissan,sentra sv,excellent,gas,clean,automatic,fwd,sedan,blue
+1300,2000,chrysler,sebring,excellent,gas,clean,automatic,rwd,convertible,red
+6990,2009,volvo,xc90,good,gas,clean,automatic,rwd,SUV,grey
+5500,2006,toyota,sienna,excellent,gas,clean,automatic,fwd,mini-van,brown
+33900,2017,nissan,titan sv 4x4,excellent,gas,clean,manual,4wd,truck,red
+31900,2007,chevrolet,corvette convertible,like new,gas,clean,automatic,rwd,convertible,red
+36500,2018,mercedes-benz,benz glc300-4matic,like new,gas,clean,automatic,4wd,SUV,blue
+17900,2015,ford,f150,excellent,gas,clean,automatic,4wd,pickup,white
+22995,2003,gmc,sierra 2500hd,excellent,gas,clean,automatic,4wd,pickup,white
+8950,1999,gmc,sierra 1500,good,gas,clean,automatic,4wd,truck,silver
+8000,1988,ford,f-150,excellent,gas,clean,manual,4wd,truck,blue
+4000,2005,chrysler,pt cruiser,excellent,gas,clean,automatic,fwd,hatchback,black
+3200,2006,volkswagen,passat,good,gas,clean,automatic,fwd,sedan,grey
+23995,2011,toyota,tacoma v6,excellent,gas,clean,automatic,4wd,pickup,black
+4999,2006,saturn,ion,excellent,gas,clean,manual,fwd,coupe,blue
+5949,2007,audi,a4 2.0t,good,gas,clean,automatic,fwd,sedan,black
+29990,2016,nissan,frontier crew cab pro-4x,good,gas,clean,automatic,4wd,pickup,white
+1000,2004,subaru,forester,good,gas,clean,automatic,4wd,wagon,red
+37990,2014,toyota,tundra crewmax platinum,good,other,clean,other,4wd,pickup,black
+29590,2017,ford,expedition xlt sport,good,gas,clean,other,4wd,SUV,blue
+6490,2013,dodge,grand caravan,good,gas,clean,automatic,fwd,van,black
+6000,1999,toyota,4runner,good,gas,clean,automatic,4wd,truck,green
+9990,1991,honda,acty,good,gas,clean,other,4wd,truck,white
+5000,1986,ford,ltd crown victoria,good,gas,clean,automatic,rwd,sedan,yellow
+18999,2014,dodge,charger,excellent,gas,clean,automatic,rwd,sedan,black
+25950,2007,ram,1500 mega cab,excellent,gas,clean,automatic,4wd,truck,blue
+13999,2014,honda,odyssey,excellent,gas,clean,automatic,fwd,van,grey
+7850,2008,jeep,commander limited,excellent,gas,clean,automatic,rwd,SUV,grey
+52900,2016,gmc,sierra 2500hd,excellent,diesel,clean,automatic,4wd,truck,black
+17300,2018,hyundai,tucson,excellent,gas,clean,automatic,4wd,SUV,custom
+15589,2013,ford,taurus,good,gas,clean,automatic,4wd,sedan,silver
+31990,2017,jeep,wrangler sport s utility 2d,good,gas,clean,other,4wd,other,white
+11100,2011,honda,cr-v,good,gas,clean,automatic,4wd,SUV,grey
+10499,2018,chevrolet,cruze,excellent,gas,clean,automatic,fwd,sedan,silver
+5500,2007,lincoln,mkx,excellent,gas,clean,automatic,4wd,SUV,white
+15999,2015,dodge,challenger sxt,good,gas,clean,automatic,rwd,coupe,black
+2500,1997,mercedes-benz,benz e320,good,gas,clean,automatic,rwd,sedan,grey
+9975,2011,buick,enclave,excellent,gas,clean,automatic,fwd,SUV,white
+9500,2014,ford,transit connect,excellent,gas,clean,automatic,fwd,van,white
+27495,2012,ford,f-150,excellent,gas,clean,automatic,4wd,truck,red
+32990,2015,jaguar,f-type coupe 2d,good,other,clean,automatic,rwd,coupe,red
+75000,2020,ford,f-350,like new,diesel,clean,automatic,4wd,truck,blue
+25990,2014,chevrolet,silverado 1500 regular,good,other,clean,automatic,4wd,pickup,black
+28590,2017,lexus,es 350 sedan 4d,good,other,clean,other,fwd,sedan,white
+21900,2017,toyota,sienna xle,like new,gas,salvage,automatic,rwd,mini-van,silver
+24900,2013,ford,f-150 fx4,excellent,gas,clean,automatic,4wd,truck,silver
+7900,2013,volkswagen,passat se,good,gas,clean,automatic,fwd,sedan,black
+70750,2019,mercedes-benz,gls550,excellent,gas,clean,automatic,4wd,SUV,white
+27590,2019,chevrolet,camaro lt coupe 2d,good,gas,clean,other,rwd,coupe,red
+3995,2011,dodge,caliber,excellent,gas,clean,manual,fwd,SUV,black
+38988,2009,gmc,c5500 bucket truck,excellent,diesel,clean,automatic,4wd,truck,white
+17111,2014,chrysler,300,excellent,gas,clean,automatic,rwd,sedan,black
+22990,2018,volkswagen,beetle 2.0t coast,good,gas,clean,other,fwd,hatchback,white
+7200,2013,nissan,altima,like new,gas,clean,automatic,fwd,sedan,grey
+16798,2012,toyota,sienna,excellent,gas,clean,automatic,fwd,wagon,silver
+11999,2013,honda,civic,excellent,gas,clean,manual,fwd,sedan,grey
+6995,2012,nissan,cube 1.8,excellent,gas,clean,automatic,fwd,wagon,black
+10995,2008,gmc,sierra 1500,excellent,gas,clean,automatic,4wd,pickup,blue
+53990,2020,chevrolet,silverado 2500 hd crew,good,diesel,clean,other,4wd,pickup,white
+2950,2002,bmw,325xi wagon,excellent,gas,clean,automatic,4wd,wagon,custom
+16990,2017,volkswagen,golf tsi s hatchback,good,gas,clean,other,fwd,sedan,silver
+3500,1996,cadillac,deville,excellent,gas,clean,automatic,fwd,sedan,white
+49990,2015,ford,super duty f-550 drw,good,diesel,clean,automatic,4wd,truck,white
+16590,2015,volkswagen,beetle 1.8t fleet,good,gas,clean,other,fwd,hatchback,black
+9500,2009,bmw,328i,excellent,gas,clean,manual,rwd,coupe,grey
+11995,2010,chevrolet,camaro,like new,gas,clean,automatic,rwd,coupe,grey
+23990,2017,jaguar,xf 20d premium sedan 4d,good,other,clean,automatic,rwd,sedan,black
+33950,2017,audi,a4,excellent,gas,clean,automatic,4wd,wagon,black
+9995,2001,ford,f-150 xlt,like new,gas,clean,automatic,4wd,truck,red
+30995,2020,buick,enclave,excellent,gas,clean,automatic,fwd,SUV,grey
+95000,1981,jeep,cj7,like new,gas,clean,automatic,4wd,SUV,silver
+29995,2018,ram,promaster 2500,good,gas,clean,automatic,fwd,van,white
+2995,2005,kia,sorento,good,gas,clean,automatic,fwd,SUV,silver
+17900,2018,toyota,rav4 le,excellent,gas,rebuilt,automatic,fwd,SUV,blue
+17990,2014,volkswagen,jetta sportwagen 2.0l,good,diesel,clean,other,fwd,wagon,red
+7499,2010,subaru,forester,excellent,gas,clean,automatic,4wd,SUV,silver
+15800,2013,lexus,ct200h f sport,excellent,hybrid,clean,automatic,fwd,hatchback,blue
+46000,2016,chevrolet,suburban 1500,excellent,gas,clean,automatic,rwd,SUV,brown
+10224,2012,mini,cooper countryman,good,gas,clean,automatic,fwd,wagon,custom
+5000,2009,toyota,rav4,fair,gas,clean,automatic,rwd,other,white
+3250,2006,toyota,corolla,good,gas,clean,automatic,fwd,sedan,blue
+5400,2005,chrysler,pt cruiser,good,gas,clean,automatic,fwd,convertible,white
+23990,2015,lexus,nx 200t sport utility 4d,good,gas,clean,automatic,fwd,hatchback,silver
+25995,2016,ford,f-150,like new,gas,clean,automatic,4wd,truck,white
+22500,2015,jeep,grand cherokee limited 4x4,excellent,gas,clean,automatic,4wd,SUV,grey
+4200,2009,nissan,sentra,good,gas,clean,automatic,fwd,sedan,silver
+22750,2018,ford,transit van,good,gas,clean,automatic,rwd,van,white
+44495,2020,chevrolet,silverado 1500 lt 4x4,new,gas,clean,automatic,4wd,truck,blue
+21590,2020,mazda,mazda3 preferred sedan 4d,good,other,clean,other,fwd,sedan,red
+5995,2006,nissan,xterra,good,gas,clean,automatic,4wd,SUV,grey
+18995,2015,acura,tlx,excellent,gas,clean,automatic,4wd,sedan,black
+9999,2009,gmc,acadia,excellent,gas,clean,automatic,4wd,SUV,brown
+23590,2017,kia,k900 premium sedan 4d,good,gas,clean,automatic,rwd,sedan,silver
+12500,1997,chevrolet,silverado 1500,good,gas,clean,automatic,rwd,pickup,green
+34000,2018,ford,transit t150 xlt van,excellent,gas,clean,automatic,rwd,van,white
+39590,2020,ford,mustang gt premium coupe 2d,good,gas,clean,other,rwd,coupe,white
+3000,2004,bmw,325it,fair,gas,clean,automatic,rwd,wagon,blue
+30590,2017,rover,range evoque se,good,gas,clean,automatic,4wd,other,red
+4500,2014,nissan,maxima,salvage,gas,salvage,automatic,fwd,sedan,purple
+3500,2004,ford,expedition,good,gas,clean,automatic,rwd,SUV,red
+53900,2016,gmc,sierra 2500hd,excellent,diesel,clean,automatic,4wd,truck,red
+16590,2014,toyota,camry hybrid xle sedan 4d,good,gas,clean,other,fwd,sedan,red
+26990,2018,mazda,mx-5 miata grand touring,good,gas,clean,other,rwd,convertible,white
+1450,1996,honda,accord,good,gas,clean,automatic,fwd,sedan,silver
+39990,2018,ford,f150 supercrew cab xl,good,other,clean,other,4wd,pickup,blue
+6295,2013,ford,fiesta,excellent,gas,clean,automatic,fwd,sedan,silver
+17500,1995,chevrolet,corvette,excellent,gas,clean,manual,rwd,coupe,green
+3500,2005,toyota,avalon,good,gas,clean,automatic,rwd,sedan,silver
+21950,1996,chevrolet,silverado 1500,excellent,gas,clean,automatic,4wd,pickup,green
+5800,2004,nissan,sentra ser spec v,good,gas,clean,manual,fwd,sedan,silver
+12000,2019,chevrolet,silverado 1500 crew cab,excellent,gas,clean,automatic,4wd,pickup,white
+9900,1998,bmw,z3 convertible,good,gas,clean,automatic,rwd,convertible,red
+7999,2012,nissan,murano,excellent,gas,clean,automatic,fwd,SUV,black
+3800,2011,buick,enclave,fair,gas,clean,automatic,4wd,SUV,white
+17990,2019,kia,soul + wagon 4d,good,other,clean,other,fwd,wagon,red
+10995,2010,nissan,frontier,excellent,gas,clean,automatic,rwd,pickup,red
+7980,2012,jeep,patriot,excellent,gas,clean,automatic,4wd,SUV,grey
+6500,2008,honda,fit sport,excellent,gas,clean,automatic,fwd,hatchback,grey
+9995,2011,mercedes-benz,e-class,good,gas,clean,automatic,rwd,sedan,silver
+1500,1997,dodge,dakota crew cab sport,salvage,gas,clean,automatic,4wd,pickup,green
+6000,2010,honda,civic,good,gas,clean,automatic,fwd,sedan,grey
+27000,2011,jeep,wrangler,like new,gas,clean,automatic,4wd,offroad,black
+30000,2015,ford,transit passenger 350 xlt,excellent,gas,clean,automatic,rwd,van,white
+29995,2015,toyota,tacoma prerunner trd rwd,excellent,gas,clean,automatic,rwd,truck,silver
+21590,2017,chrysler,300 300s sedan 4d,good,gas,clean,other,rwd,sedan,white
+11000,2006,toyota,tacoma,good,gas,clean,automatic,4wd,pickup,silver
+3850,2003,honda,pilot,good,gas,clean,automatic,4wd,SUV,silver
+33990,2012,mercedes-benz,e-class e 63 amg,good,gas,clean,automatic,rwd,sedan,white
+18500,2015,ford,f-150,excellent,gas,clean,automatic,rwd,pickup,black
+29990,2017,ford,mustang gt coupe 2d,good,gas,clean,other,rwd,coupe,red
+8995,2011,jeep,patriot,excellent,gas,clean,automatic,4wd,SUV,white
+28990,2020,hyundai,veloster n coupe 3d,good,gas,clean,other,fwd,coupe,white
+10399,2013,mini,cooper,excellent,gas,clean,automatic,fwd,coupe,orange
+21590,2019,chrysler,300 touring l sedan 4d,good,other,clean,other,rwd,sedan,black
+19995,2002,gmc,sierra sle,excellent,gas,clean,automatic,4wd,truck,blue
+2750,2000,ram,1500,good,gas,clean,automatic,rwd,truck,red
+4200,2006,nissan,sentra s sedan,excellent,gas,clean,automatic,fwd,sedan,silver
+22590,2020,buick,encore gx select sport,good,gas,clean,other,fwd,SUV,black
+7575,2013,jeep,patriot,good,gas,clean,automatic,rwd,SUV,grey
+20000,2001,porsche,911 carrera,good,gas,clean,automatic,4wd,convertible,silver
+23000,2015,subaru,wrx sti,excellent,gas,lien,manual,4wd,sedan,grey
+7995,2013,chevrolet,volt,excellent,hybrid,clean,automatic,fwd,sedan,black
+2000,2004,ford,f-150,good,gas,clean,automatic,rwd,truck,black
+17900,2008,lexus,gx 470,excellent,gas,clean,automatic,4wd,SUV,black
+9600,2008,nissan,frontier,good,gas,clean,automatic,rwd,truck,grey
+6950,2009,infiniti,g37 sedan,excellent,gas,clean,automatic,4wd,sedan,red
+8995,2014,subaru,outback,excellent,gas,clean,automatic,4wd,wagon,grey
+4000,2016,rover,superchar,like new,gas,clean,automatic,4wd,SUV,black
+31990,2017,bmw,3 series 340i sedan 4d,good,gas,clean,automatic,rwd,sedan,red
+2800,2003,toyota,camry,like new,gas,clean,automatic,fwd,sedan,blue
+5400,1998,nissan,frontier king cab se,excellent,gas,clean,manual,fwd,pickup,silver
+1000,1991,acura,legend coupe,fair,gas,clean,automatic,fwd,coupe,grey
+35900,2015,ford,f-150 lariat,excellent,gas,clean,automatic,4wd,truck,red
+20000,2010,dodge,challenger,new,gas,clean,automatic,rwd,other,blue
+7500,2014,chevrolet,cruze lt,good,gas,clean,automatic,fwd,sedan,blue
+23985,2018,bmw,3 series,excellent,gas,clean,automatic,rwd,sedan,white
+33990,2017,bmw,2 series m240i coupe 2d,good,other,clean,other,rwd,coupe,black
+8799,2006,lexus,rx 400h,excellent,hybrid,clean,automatic,fwd,SUV,green
+36990,2018,toyota,4runner sr5 sport utility,good,gas,clean,other,4wd,other,silver
+35990,2020,dodge,challenger r/t coupe 2d,good,gas,clean,other,rwd,coupe,black
+16000,2017,honda,civic,like new,gas,clean,automatic,fwd,sedan,silver
+27995,2015,jeep,wrangler,like new,gas,clean,automatic,4wd,SUV,red
+11000,2004,toyota,4runner,excellent,gas,clean,automatic,4wd,SUV,grey
+31990,2017,ram,1500 crew cab express pickup,good,gas,clean,other,4wd,pickup,silver
+30590,2016,jeep,wrangler rubicon sport,good,gas,clean,other,4wd,SUV,black
+3299,2007,hyundai,sonata,excellent,gas,clean,automatic,fwd,sedan,grey
+14500,2007,ford,expedition limited,excellent,gas,clean,automatic,4wd,SUV,white
+6495,2009,dodge,charger,good,gas,clean,automatic,rwd,sedan,black
+18890,2013,ford,f-150,excellent,gas,clean,automatic,rwd,pickup,silver
+3495,2006,chevrolet,cobalt ss,good,gas,clean,automatic,fwd,coupe,silver
+1500,2004,bmw,3 series 325i,good,gas,clean,automatic,rwd,sedan,black
+12000,2012,chevrolet,camaro,like new,gas,clean,automatic,rwd,coupe,yellow
+9499,2012,nissan,rogue,excellent,gas,clean,automatic,4wd,SUV,silver
+6000,2013,hyundai,veloster base 3dr coupe,excellent,gas,clean,automatic,fwd,hatchback,white
+1000,1998,honda,accord,good,gas,clean,automatic,fwd,sedan,green
+30000,1955,chevrolet,resto-mod,excellent,gas,clean,manual,rwd,sedan,black
+15990,2016,jeep,patriot sport suv 4d,good,gas,clean,other,fwd,other,black
+6599,2004,ford,expedition,excellent,gas,clean,automatic,rwd,SUV,red
+12999,2013,toyota,camry,excellent,gas,clean,automatic,fwd,sedan,silver
+5000,2014,nissan,altima s,fair,gas,clean,automatic,fwd,sedan,silver
+7733,2013,hyundai,elantra,excellent,gas,clean,automatic,fwd,coupe,blue
+3695,2009,toyota,camry,good,gas,clean,automatic,fwd,sedan,silver
+3500,2006,saturn,ion quad coupe,good,gas,clean,automatic,fwd,coupe,black
+13995,2012,toyota,highlander limited,excellent,gas,clean,automatic,4wd,SUV,white
+10990,2014,toyota,corolla s plus sedan 4d,good,gas,clean,automatic,fwd,sedan,silver
+19500,2013,dodge,charger,like new,gas,clean,automatic,rwd,sedan,white
+18990,2014,ford,focus st hatchback 4d,good,other,clean,other,fwd,hatchback,silver
+7400,2007,lexus,rx350,good,gas,clean,automatic,fwd,SUV,white
+16500,2017,ford,escape titanium 4wd,excellent,gas,clean,automatic,4wd,SUV,black
+1500,1998,mercury,sable,good,gas,clean,automatic,fwd,sedan,black
+15000,2014,chevrolet,express,excellent,gas,clean,automatic,rwd,truck,white
+10990,2008,jeep,liberty,good,gas,clean,automatic,4wd,SUV,green
+10995,2008,subaru,impreza,excellent,gas,clean,manual,4wd,sedan,white
+19988,2016,audi,2016 a3 sportback e-tron,excellent,hybrid,clean,automatic,fwd,hatchback,white
+7995,2012,chevrolet,malibu,excellent,gas,clean,automatic,fwd,sedan,grey
+17990,2015,buick,verano sedan 4d,good,gas,clean,other,fwd,sedan,brown
+17995,2013,bmw,535i xdrive awd,excellent,gas,clean,automatic,4wd,sedan,black
+29990,2013,chevrolet,avalanche black,good,gas,clean,other,4wd,pickup,green
+9500,2014,ford,transit connect,excellent,gas,clean,automatic,fwd,van,white
+23500,2015,bmw,320i xdrive,excellent,gas,clean,automatic,4wd,sedan,grey
+6950,2010,chevrolet,malibu ltz,excellent,gas,clean,automatic,fwd,sedan,black
+31990,2017,bmw,3 series 340i sedan 4d,good,gas,clean,automatic,rwd,sedan,red
+38590,2019,ford,mustang gt premium coupe 2d,good,gas,clean,other,rwd,coupe,red
+8499,2015,chrysler,200,excellent,gas,rebuilt,automatic,fwd,sedan,black
+15000,2011,ford,f150 supercrew cab lariat,good,gas,clean,automatic,4wd,truck,white
+6995,2006,ford,e350 van,good,gas,clean,automatic,rwd,van,white
+5850,2006,chrysler,town & country,good,gas,clean,automatic,fwd,mini-van,silver
+32590,2017,infiniti,q50 red sport 400 sedan,good,other,clean,other,rwd,sedan,red
+9500,2013,ford,escape,like new,gas,clean,automatic,fwd,SUV,green
+35900,2012,gmc,sierra 2500hd,excellent,diesel,clean,automatic,4wd,truck,red
+6995,2011,buick,lucern,excellent,gas,rebuilt,automatic,fwd,sedan,white
+18500,2013,jeep,grand cherokee overland 4x4,good,gas,rebuilt,automatic,4wd,SUV,blue
+28988,2015,chevrolet,silverado 1500 lt 2wd,good,gas,clean,automatic,rwd,pickup,white
+7970,2011,ford,e-250 cargo van,good,gas,clean,automatic,rwd,van,white
+2400,2004,volvo,xc70,good,gas,clean,automatic,4wd,wagon,blue
+35990,2015,ford,mustang gt premium coupe 2d,good,gas,clean,other,rwd,coupe,red
+4200,2000,jeep,cherokee,good,gas,clean,automatic,4wd,SUV,silver
+10299,2015,volkswagen,jetta sedan,excellent,gas,clean,automatic,fwd,sedan,silver
+3900,2007,honda,accord,good,gas,clean,automatic,fwd,sedan,grey
+5495,2006,chevrolet,equinox lt,good,gas,clean,automatic,4wd,SUV,red
+25999,2014,chevrolet,camaro,excellent,gas,clean,automatic,rwd,coupe,white
+12995,2007,chevrolet,tahoe ls,good,gas,clean,automatic,4wd,SUV,grey
+5950,1999,toyota,rav 4 4wd 5 speed,excellent,gas,clean,manual,4wd,SUV,white
+15000,2012,ford,mustang,like new,gas,clean,automatic,rwd,coupe,red
+35990,2020,dodge,challenger r/t coupe 2d,good,gas,clean,other,rwd,coupe,black
+7995,2008,ford,edge sel,excellent,gas,clean,automatic,4wd,SUV,silver
+13988,2014,audi,a4,excellent,gas,clean,automatic,rwd,sedan,black
+14990,2019,kia,soul wagon 4d,good,gas,clean,other,fwd,wagon,black
+5800,2008,honda,accord,good,gas,clean,automatic,fwd,sedan,silver
+8995,2005,gmc,sierra,excellent,gas,clean,automatic,rwd,truck,white
+20995,2018,honda,clarity,excellent,gas,clean,automatic,fwd,sedan,grey
+14799,2013,gmc,yukon xl,excellent,gas,clean,automatic,4wd,SUV,black
+4800,2004,honda,odyssey,excellent,gas,clean,automatic,fwd,mini-van,grey
+26500,2017,bmw,x1 xdrive 28i,like new,gas,clean,automatic,4wd,SUV,white
+17900,2011,ford,f150 lariat supercrew,excellent,gas,clean,automatic,rwd,truck,red
+4500,2007,honda,civic,good,gas,clean,automatic,fwd,sedan,blue
+18500,2016,cadillac,srx,like new,gas,lien,automatic,rwd,SUV,red
+5900,2006,cadillac,srx,like new,gas,clean,automatic,4wd,SUV,red
+3900,1999,toyota,avalon xls,good,gas,clean,automatic,fwd,sedan,brown
+13000,2004,chevrolet,silverado,good,diesel,clean,automatic,rwd,truck,white
+17995,2009,lincoln,navigator,like new,gas,clean,automatic,4wd,SUV,white
+2500,1994,jeep,grand cherokee laredo,good,gas,clean,automatic,4wd,SUV,blue
+4500,2005,lexus,es 330,good,gas,clean,automatic,fwd,sedan,black
+29950,2014,gmc,sierra 1500,excellent,gas,clean,automatic,4wd,truck,black
+2850,2002,jeep,grand cherokee,good,gas,clean,automatic,4wd,SUV,grey
+17990,2019,chevrolet,trax lt sport utility,good,gas,clean,other,fwd,hatchback,silver
+22995,2018,nissan,rogue,excellent,gas,clean,automatic,4wd,SUV,grey
+26990,2020,buick,encore gx essence sport,good,other,clean,other,fwd,other,black
+9995,2010,ford,f150,good,gas,clean,automatic,rwd,pickup,white
+32990,2016,infiniti,qx80 sport utility 4d,good,gas,clean,automatic,rwd,SUV,black
+31590,2018,bmw,4 series 430i convertible 2d,good,gas,clean,other,rwd,convertible,silver
+36500,2018,ford,f150 lariat,excellent,gas,clean,automatic,4wd,truck,white
+36590,2019,tesla,model 3 standard range,good,electric,clean,other,rwd,sedan,white
+36777,2015,ford,f150,excellent,gas,clean,automatic,4wd,pickup,black
+34990,2014,bmw,6 series 640i convertible 2d,good,gas,clean,automatic,rwd,other,white
+8399,2012,honda,civic,excellent,gas,clean,automatic,fwd,sedan,black
+19500,2000,ford,e350,excellent,diesel,clean,automatic,rwd,van,white
+41990,2019,lincoln,continental reserve,good,gas,clean,other,fwd,sedan,blue
+5500,2006,audi,a4,excellent,gas,clean,automatic,4wd,sedan,silver
+14900,2008,chevrolet,silverado lt 1500,excellent,gas,clean,automatic,rwd,pickup,grey
+3500,2011,ford,fusion hybrid,good,gas,clean,automatic,fwd,coupe,blue
+5995,2002,volkswagen,jetta gls,good,gas,clean,automatic,fwd,sedan,silver
+14995,2010,toyota,highlander limited,excellent,gas,clean,automatic,fwd,SUV,grey
+7500,2004,ford,f-250,excellent,diesel,clean,automatic,4wd,truck,red
+10995,2004,toyota,4runner,good,gas,clean,automatic,4wd,wagon,custom
+29900,2016,ford,f-150,good,gas,clean,automatic,rwd,truck,custom
+3900,2010,mazda,5,good,gas,clean,automatic,fwd,mini-van,silver
+14900,2019,subaru,crosstrek,excellent,gas,rebuilt,automatic,4wd,wagon,silver
+15590,2016,ford,fusion s sedan 4d,good,gas,clean,other,fwd,sedan,silver
+4995,2001,toyota,camry,like new,gas,clean,automatic,fwd,sedan,brown
+16500,2017,chevrolet,silverado 1500,good,gas,salvage,automatic,4wd,pickup,white
+18990,2020,nissan,sentra s sedan 4d,good,gas,clean,other,fwd,sedan,black
+34997,2015,ford,f-350 chassis,excellent,diesel,clean,automatic,4wd,pickup,white
+15995,2016,ford,fusion,excellent,gas,clean,automatic,fwd,sedan,white
+5995,2011,honda,cive se,good,gas,clean,automatic,fwd,sedan,blue
+18000,1973,ford,mustang mach 1,excellent,gas,clean,automatic,rwd,coupe,brown
+4750,2008,mercury,mariner,good,gas,clean,automatic,fwd,SUV,green
+11997,2012,dodge,challenger sxt coupe,excellent,gas,rebuilt,automatic,rwd,coupe,black
+8675,2011,honda,odyssey ex,excellent,gas,clean,automatic,fwd,van,black
+10988,2014,kia,sorento lx - awd - rear camera - bluetooth -,excellent,gas,clean,automatic,4wd,SUV,purple
+16590,2015,toyota,prius three hatchback 4d,good,hybrid,clean,other,fwd,hatchback,green
+20590,2020,volkswagen,passat s sedan 4d,good,gas,clean,other,fwd,sedan,black
+31590,2017,bmw,4 series 440i gran coupe 4d,good,gas,clean,other,rwd,coupe,blue
+23990,2016,cadillac,cts 2.0 standard sedan,good,gas,clean,other,rwd,sedan,silver
+18999,2016,honda,pilot,excellent,gas,clean,automatic,4wd,SUV,white
+7499,2014,kia,forte,like new,gas,clean,automatic,fwd,sedan,black
+28590,2020,acura,ilx premium and a-spec,good,gas,clean,other,fwd,sedan,white
+14900,2005,jeep,wrangler se,excellent,gas,clean,manual,4wd,convertible,red
+2500,1998,jeep,grand cherokee,good,gas,clean,automatic,rwd,offroad,grey
+16995,2008,toyota,sequoia,excellent,gas,clean,automatic,4wd,other,red
+33590,2014,jeep,wrangler unlimited rubicon,good,gas,clean,other,4wd,SUV,silver
+15990,2020,kia,rio s sedan 4d,good,gas,clean,other,fwd,sedan,silver
+29990,2019,chrysler,300 300s sedan 4d,good,other,clean,other,rwd,sedan,silver
+1950,2005,ford,crown victoria police,fair,gas,clean,automatic,rwd,sedan,black
+5617,2008,dodge,grand caravan,good,gas,clean,automatic,fwd,mini-van,white
+14588,2017,mitsubishi,outlander sport es,good,gas,clean,automatic,fwd,other,white
+21590,2016,hyundai,genesis 3.8 sedan 4d,good,gas,clean,automatic,rwd,sedan,white
+5000,1994,toyota,4runner sr5,good,gas,salvage,manual,4wd,SUV,black
+38990,2020,infiniti,qx60 luxe sport utility,good,gas,clean,other,fwd,other,black
+4000,2000,gmc,yukon xl 2500,good,gas,clean,automatic,4wd,SUV,brown
+25500,2014,chevrolet,camaro rs,excellent,gas,clean,automatic,rwd,coupe,red
+8749,2014,hyundai,sonata,excellent,gas,clean,automatic,fwd,sedan,grey
+23990,2018,kia,cadenza premium sedan 4d,good,gas,clean,automatic,fwd,sedan,blue
+38990,2013,chevrolet,corvette grand sport,good,gas,clean,other,rwd,other,red
+3800,2003,chevrolet,suburban,good,gas,clean,automatic,rwd,SUV,grey
+15900,2005,chevrolet,avalanche,excellent,gas,clean,automatic,4wd,SUV,grey
+3495,2005,ford,focus,good,gas,clean,automatic,fwd,sedan,red
+13500,2005,chevrolet,silverado 2500hd,good,diesel,clean,automatic,4wd,pickup,white
+19995,2012,chevrolet,silverado 1500,like new,gas,clean,automatic,4wd,truck,brown
+10995,2013,bmw,x3,excellent,gas,clean,automatic,4wd,SUV,black
+13995,2011,toyota,sienna se 8 passenger,excellent,gas,clean,automatic,fwd,mini-van,silver
+6800,2011,hyundai,sonata,excellent,gas,clean,automatic,fwd,sedan,grey
+2600,2006,chrysler,pacifica,excellent,gas,clean,automatic,fwd,SUV,brown
+22500,2011,ford,f-150,excellent,gas,clean,automatic,4wd,pickup,blue
+28990,2018,jaguar,xe 25t prestige sedan 4d,good,other,clean,other,rwd,sedan,white
+8499,2012,subaru,legacy 2.5i premium,excellent,gas,clean,automatic,4wd,sedan,blue
+5000,2011,honda,accord sedan,good,gas,clean,automatic,rwd,sedan,white
+28990,2018,jeep,wrangler golden eagle (jk),good,gas,clean,other,4wd,other,red
+5500,1999,dodge,dakota sport,fair,gas,clean,automatic,4wd,pickup,black
+18590,2018,ford,fusion energi plug-in,good,hybrid,clean,other,fwd,sedan,black
+8200,2006,toyota,tacoma,good,gas,clean,automatic,rwd,pickup,black
+24950,2017,ford,transit 250 cargo van,excellent,gas,clean,automatic,rwd,truck,white
+14995,2013,subaru,xv crosstrek,excellent,gas,clean,other,4wd,wagon,orange
+12590,2016,chevrolet,spark ev 1lt hatchback,good,electric,clean,other,fwd,hatchback,silver
+7700,2015,kia,forte,excellent,gas,clean,automatic,fwd,sedan,black
+24999,2007,ford,f-150 saleen,excellent,gas,clean,automatic,rwd,pickup,grey
+34590,2016,chevrolet,silverado 1500 double,good,gas,clean,other,4wd,pickup,silver
+4500,2000,subaru,outback limited,good,gas,clean,automatic,4wd,hatchback,white
+10500,2009,ram,1500 4x4,excellent,gas,clean,automatic,4wd,truck,black
+19990,2017,mercedes-benz,b-class b 250e,good,gas,clean,other,fwd,hatchback,white
+9300,2007,chevrolet,silverado,good,gas,clean,automatic,rwd,truck,white
+19995,2019,chevrolet,malibu,good,gas,clean,automatic,fwd,sedan,black
+5500,2003,gmc,envoy xl,excellent,gas,clean,automatic,4wd,SUV,red
+11995,2012,bmw,3-series,good,gas,clean,other,4wd,coupe,black
+10500,2013,ford,focus titanium,excellent,gas,clean,automatic,fwd,hatchback,white
+18900,2011,subaru,impreza wrx,like new,gas,clean,automatic,4wd,wagon,white
+27333,2017,nissan,frontier desert runner,like new,gas,clean,automatic,rwd,truck,white
+17500,2012,ford,f-150,good,gas,clean,automatic,rwd,truck,black
+12999,1990,buick,reatta,excellent,gas,clean,automatic,fwd,convertible,white
+24990,2017,fiat,124 spider classica,good,gas,clean,other,rwd,other,black
+38950,2015,toyota,tacoma,like new,gas,clean,automatic,4wd,truck,silver
+24590,2016,chevrolet,colorado extended cab,good,gas,clean,other,4wd,pickup,red
+24995,2015,audi,s3,excellent,gas,clean,automatic,4wd,sedan,black
+19590,2013,bmw,1 series 135i coupe 2d,good,gas,clean,other,rwd,coupe,black
+2500,2005,toyota,prius hybrid,fair,hybrid,clean,automatic,fwd,hatchback,silver
+13499,2007,chevrolet,colorado lt,good,gas,clean,automatic,4wd,pickup,black
+3175,2008,saturn,aura xe,excellent,gas,clean,automatic,fwd,sedan,red
+11795,2017,chrysler,pacifica touring-l,like new,gas,clean,automatic,fwd,van,grey
+30990,2016,chevrolet,colorado crew cab z71,good,other,clean,other,4wd,pickup,blue
+35590,2018,ram,1500 crew cab big horn,good,other,clean,other,4wd,pickup,black
+26990,2016,chevrolet,express commercial cutaway,good,gas,clean,automatic,rwd,truck,white
+39590,2019,chevrolet,silverado 1500 crew,good,gas,clean,other,4wd,pickup,brown
+11590,2015,ford,focus se hatchback 4d,good,other,clean,automatic,fwd,hatchback,silver
+15590,2018,volkswagen,jetta 1.4t s sedan 4d,good,gas,clean,automatic,fwd,sedan,blue
+7999,2013,kia,rio,excellent,gas,clean,automatic,fwd,sedan,black
+12995,2015,kia,optima sx turbo,excellent,gas,clean,automatic,fwd,sedan,white
+7495,2010,toyota,prius,excellent,hybrid,clean,automatic,fwd,hatchback,grey
+8200,2011,toyota,camry,excellent,gas,clean,automatic,fwd,sedan,green
+20988,2011,ford,f350 xlt,excellent,diesel,clean,automatic,4wd,truck,red
+1450,2008,chevrolet,cobalt lt,fair,gas,rebuilt,automatic,fwd,sedan,silver
+27500,2018,dodge,durango,excellent,gas,clean,automatic,4wd,SUV,red
+9200,2014,toyota,camry se sport,fair,gas,clean,automatic,fwd,sedan,silver
+26990,2016,chevrolet,express commercial cutaway,good,gas,clean,automatic,rwd,truck,white
+13900,2010,chevrolet,silverado 1500,good,gas,clean,automatic,4wd,truck,white
+8367,2014,chevrolet,malibu ls,excellent,gas,clean,automatic,fwd,sedan,blue
+10999,1978,chevrolet,corvette,like new,gas,clean,automatic,rwd,coupe,silver
+15500,2010,toyota,tundra 4x4,good,gas,clean,automatic,4wd,truck,white
+19990,2015,chrysler,300 300s sedan 4d,good,other,clean,other,rwd,sedan,blue
+22988,2011,ford,f350,excellent,diesel,clean,automatic,rwd,truck,white
+6499,2008,volvo,xc90,good,gas,clean,automatic,fwd,SUV,silver
+33000,2018,toyota,tacoma,like new,gas,clean,automatic,4wd,truck,white
+29995,2015,toyota,tacoma trd off road,excellent,gas,clean,automatic,rwd,truck,silver
+5995,2008,saturn,aura,good,gas,clean,automatic,rwd,sedan,custom
+22900,2016,ford,mustang,excellent,gas,clean,automatic,rwd,convertible,red
+7995,2005,toyota,highlander,good,gas,clean,automatic,fwd,SUV,white
+2800,2007,honda,odyssey ex,excellent,gas,clean,automatic,fwd,mini-van,silver
+8000,1981,chevrolet,corvette,fair,gas,rebuilt,automatic,rwd,coupe,black
+20000,2014,chrysler,200,like new,gas,clean,automatic,fwd,convertible,brown
+6500,2009,dodge,journey sxt awd,excellent,electric,clean,automatic,4wd,SUV,silver
+14900,2017,subaru,forester limited,excellent,gas,salvage,automatic,4wd,SUV,black
+4800,2006,subaru,impreza outback sport,good,gas,clean,automatic,4wd,hatchback,green
+34590,2015,ford,mustang gt premium,good,gas,clean,other,rwd,other,white
+2300,2004,chrysler,pacifica,good,gas,clean,automatic,fwd,wagon,red
+26000,1966,chevrolet,ii,excellent,gas,clean,manual,rwd,coupe,black
+22988,2013,chevrolet,silverado 1500,good,gas,clean,automatic,rwd,truck,black
+900,2002,dodge,caravan sport,fair,gas,clean,automatic,fwd,mini-van,silver
+12999,2014,ford,escape,excellent,gas,clean,automatic,4wd,SUV,blue
+16995,2012,audi,a7 3.0t quattro,excellent,gas,clean,automatic,4wd,sedan,black
+8750,2011,buick,lacrosse,excellent,gas,clean,automatic,fwd,sedan,brown
+4900,2001,chevrolet,silverado,good,gas,clean,automatic,rwd,pickup,white
+28990,2014,lexus,ls 460 sedan 4d,good,diesel,clean,other,rwd,sedan,silver
+16495,2013,cadillac,ats4 performance,excellent,gas,clean,automatic,4wd,sedan,black
+11300,2012,subaru,forester 2.5i premium,good,gas,clean,automatic,4wd,SUV,silver
+2500,2000,honda,accord,good,gas,clean,automatic,fwd,sedan,brown
+41900,2019,toyota,tundra trd off road,like new,gas,salvage,automatic,4wd,pickup,blue
+6995,2011,ford,fusion se,good,gas,clean,automatic,fwd,sedan,custom
+12995,2006,dodge,dakota,excellent,gas,clean,manual,4wd,pickup,silver
+57500,2015,ram,3500 laramie longhorn,excellent,diesel,lien,automatic,4wd,pickup,white
+1000,1997,ford,f-150,fair,gas,clean,automatic,4wd,truck,red
+29990,2017,ford,mustang gt coupe 2d,good,gas,clean,other,rwd,coupe,red
+16500,2018,subaru,crosstrek limited,excellent,gas,rebuilt,automatic,4wd,SUV,orange
+10988,2014,kia,sorento lx - awd - rear camera - bluetooth -,excellent,gas,clean,automatic,4wd,SUV,purple
+18980,2018,toyota,rav4,excellent,gas,clean,automatic,4wd,SUV,white
+29990,2018,chevrolet,colorado crew cab work,good,gas,clean,other,4wd,pickup,red
+10000,1974,volkswagen,beetle,good,gas,clean,manual,rwd,convertible,green
+21590,2018,mitsubishi,outlander phev sel,good,hybrid,clean,other,4wd,SUV,silver
+6900,2009,cadillac,cts awd,good,gas,clean,automatic,4wd,sedan,blue
+4200,2006,ford,escape hybrid,excellent,hybrid,clean,automatic,4wd,SUV,silver
+24990,2018,lincoln,mkz premiere sedan 4d,good,gas,clean,other,fwd,sedan,blue
+13995,2016,dodge,g. caravan se,like new,gas,clean,automatic,fwd,mini-van,white
+16500,2013,bmw,x5,good,gas,clean,automatic,4wd,SUV,silver
+4000,2004,pontiac,grand prix,good,gas,clean,automatic,fwd,sedan,silver
+26990,2017,nissan,titan single cab sv,good,gas,clean,other,4wd,pickup,red
+3995,2008,toyota,camry,excellent,gas,clean,manual,fwd,sedan,brown
+9494,2006,toyota,sequoia sr5 4x2,good,gas,clean,automatic,rwd,other,blue
+12000,1972,buick,gsx & gn,fair,gas,clean,automatic,rwd,coupe,yellow
+26995,1998,pontiac,firebird,good,gas,clean,manual,rwd,coupe,black
+2500,1970,volkswagen,dune buggy,excellent,gas,clean,manual,rwd,convertible,blue
+10450,2013,hyundai,santa fe sport awd,excellent,gas,clean,automatic,4wd,SUV,grey
+16990,2017,ford,edge sel,excellent,gas,clean,automatic,fwd,SUV,grey
+18990,2020,chevrolet,spark activ hatchback,good,gas,clean,other,fwd,hatchback,black
+37900,2015,ram,diesels cummins 2500,like new,diesel,clean,automatic,4wd,truck,silver
+24990,2018,mazda,cx-5 grand touring sport,good,gas,clean,other,fwd,SUV,blue
+20988,2018,toyota,camry se,good,gas,clean,automatic,fwd,sedan,white
+12788,2014,nissan,maxima 3.5 s,good,other,clean,automatic,fwd,sedan,black
+9000,1977,chevrolet,el camino,excellent,gas,clean,automatic,rwd,truck,green
+2500,2003,chrysler,pt cruiser,excellent,gas,clean,automatic,fwd,hatchback,blue
+34590,2019,chevrolet,silverado 1500 ld,good,gas,clean,other,4wd,pickup,brown
+10995,2008,ford,f150,good,gas,clean,automatic,rwd,pickup,red
+9000,2007,subaru,impreza wrx limited,excellent,gas,lien,manual,4wd,sedan,white
+16777,2018,hyundai,santa fe sport,excellent,gas,clean,automatic,fwd,SUV,black
+5995,2002,chevrolet,tahoe,excellent,gas,clean,automatic,4wd,SUV,green
+4995,2009,toyota,prius,excellent,hybrid,clean,automatic,fwd,other,custom
+32590,2014,chevrolet,silverado 2500 hd crew,good,other,clean,other,4wd,pickup,white
+12950,2005,toyota,tundra,good,gas,salvage,automatic,4wd,truck,grey
+16590,2018,ford,c-max hybrid se wagon 4d,good,hybrid,clean,other,fwd,wagon,blue
+13500,2015,ford,transit connect,excellent,gas,clean,automatic,rwd,van,white
+18750,2015,honda,accord ex-l,excellent,gas,rebuilt,automatic,fwd,sedan,black
+63900,2020,ford,super duty f-250 srw,excellent,diesel,clean,automatic,4wd,pickup,white
+26590,2013,jeep,wrangler rubicon sport,good,gas,clean,other,4wd,SUV,blue
+3500,2009,volkswagen,touareg,good,gas,clean,automatic,fwd,SUV,silver
+10650,2015,subaru,impreza premium,good,gas,salvage,automatic,4wd,wagon,black
+18000,1981,volkswagen,vanagon,good,gas,clean,manual,rwd,van,yellow
+3550,2013,ford,transit connect,excellent,gas,clean,automatic,fwd,mini-van,white
+3500,2004,jeep,liberty,excellent,gas,salvage,automatic,4wd,SUV,blue
+17950,2012,lexus,rx350,excellent,gas,clean,automatic,fwd,SUV,black
+27985,2017,chevrolet,silverado 1500,good,other,clean,automatic,4wd,pickup,black
+5999,2012,ford,focus se,excellent,gas,clean,automatic,fwd,sedan,silver
+5950,2008,ford,escape,good,gas,clean,automatic,4wd,SUV,red
+8900,2007,ford,edge,excellent,gas,clean,automatic,4wd,sedan,orange
+11555,2014,ford,fiesta st hatchback 4d,good,gas,clean,manual,fwd,hatchback,black
+25990,2018,audi,a4 ultra premium sedan 4d,good,other,clean,other,fwd,sedan,white
+38950,1997,ford,f-800,good,diesel,clean,manual,rwd,truck,white
+23000,1967,chevrolet,c10 truck,good,gas,clean,automatic,rwd,truck,red
+12995,2013,volkswagen,tiguan,excellent,gas,clean,automatic,4wd,SUV,black
+17990,2015,volkswagen,golf tdi sel,good,diesel,clean,other,fwd,sedan,white
+13200,2013,bmw,535i xdrive,excellent,gas,clean,automatic,4wd,sedan,white
+2950,2003,ford,explorer xlt 4x4,excellent,gas,clean,automatic,4wd,SUV,white
+3500,2004,honda,civic,good,gas,clean,automatic,fwd,sedan,white
+800,1999,mercury,sable,good,gas,clean,automatic,fwd,sedan,red
+2750,2002,buick,lesabre limited,good,gas,clean,automatic,fwd,sedan,brown
+27900,2013,bmw,6 series,like new,gas,clean,automatic,rwd,sedan,silver
+14753,2017,hyundai,elantra,excellent,gas,clean,automatic,fwd,sedan,blue
+16950,2015,chevrolet,express passenger,good,gas,clean,automatic,rwd,van,white
+18590,2018,nissan,altima 2.5 sr sedan 4d,good,other,clean,automatic,fwd,sedan,red
+500,2013,toyota,camry xle,like new,gas,clean,automatic,fwd,sedan,white
+2498,2011,buick,regal,fair,gas,clean,manual,fwd,sedan,blue
+15990,2018,kia,soul wagon 4d,good,gas,clean,other,fwd,wagon,silver
+2000,2015,chevrolet,cruze lt,like new,gas,clean,automatic,fwd,wagon,red
+32990,2018,ram,1500 quad cab harvest pickup,good,gas,clean,other,4wd,pickup,black
+28900,2018,ford,mustang,excellent,gas,clean,automatic,rwd,coupe,grey
+8000,2012,mini,cooper countryman,good,gas,clean,automatic,4wd,wagon,white
+4500,2012,ford,fusion se,excellent,gas,rebuilt,automatic,fwd,sedan,silver
+20990,2010,ram,2500,good,gas,clean,automatic,4wd,truck,black
+9000,1985,ford,bronco xlt,good,gas,clean,automatic,4wd,SUV,blue
+13500,2013,gmc,acadia,excellent,gas,clean,automatic,4wd,SUV,white
+25988,2019,ford,mustang ecoboost - rear camera - bluetooth -,excellent,gas,clean,automatic,rwd,coupe,white
+35990,2018,ram,1500 crew cab big horn,good,gas,clean,other,4wd,pickup,white
+11995,2016,kia,soul,good,gas,clean,automatic,fwd,wagon,black
+19995,2013,ram,2500 tradesman,excellent,gas,clean,automatic,4wd,pickup,white
+6495,2005,subaru,outback,fair,gas,rebuilt,manual,4wd,wagon,blue
+27590,2013,toyota,tacoma access cab pickup,good,other,clean,other,4wd,pickup,white
+1500,2002,honda,civic,fair,gas,clean,manual,fwd,coupe,custom
+34999,2014,ram,2500 slt 4x4,excellent,gas,clean,automatic,4wd,truck,black
+6250,2010,toyota,corolla s,good,gas,clean,automatic,fwd,sedan,white
+29990,2012,toyota,tacoma double cab pickup,good,gas,clean,other,4wd,pickup,white
+6700,2009,saturn,aura hybrid,excellent,hybrid,clean,automatic,fwd,sedan,silver
+9900,2010,ford,expedition,excellent,gas,clean,automatic,rwd,SUV,black
+999,2015,hyundai,sonata echo,excellent,gas,clean,automatic,fwd,sedan,silver
+15990,2016,chevrolet,malibu limited ltz,good,gas,clean,other,fwd,sedan,white
+7500,1992,ram,d350,good,diesel,clean,automatic,rwd,truck,white
+12500,1998,ford,mustang cobra,excellent,hybrid,clean,manual,rwd,coupe,blue
+16590,2019,chevrolet,trax lt sport utility,good,gas,clean,other,fwd,hatchback,red
+19995,2014,dodge,durango,excellent,gas,clean,automatic,4wd,SUV,white
+17999,2013,dodge,challenger,excellent,gas,clean,automatic,rwd,coupe,black
+1400,1998,ford,e250 econoline,fair,gas,clean,automatic,rwd,van,white
+3499,2006,honda,odyssey ex-l,like new,gas,clean,automatic,fwd,van,grey
+7900,2011,honda,pilot 2wd 4dr lx,excellent,gas,clean,automatic,fwd,SUV,grey
+12990,2013,volvo,s60 t5 sedan 4d,good,gas,clean,other,fwd,sedan,black
+28500,2007,chevrolet,corvette base,excellent,gas,clean,automatic,rwd,convertible,black
+31990,2017,bmw,3 series 340i sedan 4d,good,gas,clean,automatic,rwd,sedan,red
+30990,2011,mercedes-benz,sl-class sl 550,good,hybrid,clean,automatic,rwd,convertible,silver
+15900,2008,chevrolet,silverado,excellent,gas,clean,automatic,4wd,truck,white
+14988,2012,ford,f250,excellent,gas,clean,automatic,4wd,truck,white
+29999,2018,jeep,wrangler,excellent,gas,lien,automatic,4wd,offroad,orange
+21990,2017,gmc,acadia sle-1 sport utility,good,gas,clean,other,fwd,SUV,white
+21990,2014,chrysler,300 300c sedan 4d,good,other,clean,other,rwd,sedan,black
+15750,2011,jeep,grand cherokee overland 4x4,excellent,gas,clean,automatic,4wd,SUV,black
+7200,2012,toyota,prius hybrid,good,hybrid,clean,automatic,fwd,hatchback,white
+12990,2014,honda,accord exl v6,excellent,gas,rebuilt,automatic,fwd,coupe,white
+15995,2013,nissan,pathfinder sv 4x4,excellent,gas,clean,automatic,4wd,SUV,grey
+37995,2018,chevrolet,silverado 1500,good,gas,clean,automatic,4wd,truck,red
+13995,2014,chevrolet,impala,like new,gas,clean,automatic,fwd,sedan,black
+35590,2019,dodge,challenger r/t coupe 2d,good,gas,clean,other,rwd,coupe,black
+8995,2014,chevrolet,cruze,excellent,gas,clean,automatic,fwd,sedan,white
+800,2001,ford,focus coupe,good,gas,clean,manual,fwd,coupe,grey
+14888,2015,jeep,cherokee,excellent,gas,clean,automatic,4wd,SUV,red
+6000,2004,ford,e350 cargo van,fair,gas,clean,automatic,rwd,van,white
+33990,2018,mercedes-benz,e-class e 300,good,gas,clean,other,rwd,sedan,white
+1000,2016,nissan,juke,excellent,gas,clean,automatic,fwd,sedan,white
+13497,2016,nissan,maxima 3.5 s,good,gas,clean,automatic,fwd,sedan,red
+4900,2007,volvo,xc90,good,gas,clean,automatic,4wd,SUV,silver
+35000,2018,gmc,acadia,good,gas,clean,automatic,4wd,SUV,white
+4700,1999,lexus,es300 sedan,good,gas,clean,automatic,fwd,sedan,grey
+5000,2001,ford,excursion limited,fair,gas,clean,automatic,4wd,SUV,white
+2500,2001,honda,civic,good,gas,clean,automatic,fwd,sedan,black
+34988,2018,chevrolet,silverado 1500,excellent,gas,clean,automatic,4wd,sedan,black
+4995,2007,kia,sportage lx,good,gas,clean,automatic,fwd,SUV,silver
+6000,2017,nissan,versa,excellent,gas,clean,manual,fwd,coupe,silver
+8915,2015,chrysler,200,excellent,gas,clean,automatic,fwd,sedan,brown
+16901,2014,gmc,sierra 1500,excellent,gas,clean,automatic,4wd,truck,grey
+32999,2016,chevrolet,silverado 2500 ltz,like new,gas,clean,automatic,4wd,truck,black
+13450,2016,subaru,legacy,good,gas,clean,automatic,4wd,sedan,blue
+29990,2016,chevrolet,colorado extended cab,good,gas,clean,other,4wd,pickup,red
+3800,2007,volkswagen,passat 2.0t,excellent,gas,clean,automatic,fwd,sedan,white
+26990,2017,nissan,titan single cab sv,good,gas,clean,other,4wd,pickup,red
+7995,2011,toyota,camry le,excellent,gas,clean,automatic,fwd,sedan,blue
+12500,2011,hyundai,equus,excellent,gas,clean,automatic,rwd,sedan,white
+40990,2017,lincoln,navigator l select sport,good,other,clean,automatic,4wd,SUV,black
+10000,2004,gmc,sierra 1500,excellent,gas,clean,automatic,rwd,pickup,grey
+5000,2007,chevrolet,tahoe lt,good,gas,clean,automatic,4wd,SUV,brown
+34990,2018,jeep,grand cherokee trailhawk,good,gas,clean,other,4wd,other,black
+74999,2017,rover,sport svr,excellent,gas,clean,automatic,4wd,SUV,black
+14900,2015,subaru,forester,excellent,gas,lien,manual,4wd,SUV,white
+7490,2009,hyundai,genesis,excellent,gas,clean,automatic,fwd,sedan,black
+11499,2007,lexus,rx 350,good,gas,clean,automatic,fwd,SUV,silver
+40990,2020,ford,mustang gt coupe 2d,good,gas,clean,other,rwd,coupe,black
+18999,2013,ford,f-150 xlt,excellent,gas,clean,automatic,4wd,pickup,black
+9491,2013,ford,escape,excellent,gas,clean,automatic,fwd,SUV,white
+19590,2015,ford,fiesta st hatchback 4d,good,gas,clean,other,fwd,hatchback,silver
+34900,2016,lexus,rx 350,like new,gas,clean,automatic,4wd,SUV,grey
+29990,2011,ford,super duty f-450 drw,good,diesel,clean,automatic,4wd,truck,white
+20590,2018,ford,taurus sel sedan 4d,good,gas,clean,other,fwd,sedan,black
+48900,2015,ford,super duty f-250 srw,excellent,diesel,clean,automatic,4wd,truck,white
+18590,2018,hyundai,sonata sel sedan 4d,good,gas,clean,other,fwd,sedan,white
+16988,2018,hyundai,kona,excellent,gas,clean,automatic,fwd,SUV,white
+13997,2007,lexus,es 350,excellent,gas,clean,automatic,fwd,sedan,silver
+22700,2019,honda,insight hybrid,excellent,hybrid,clean,automatic,fwd,coupe,white
+6900,2008,acura,tl,excellent,gas,clean,automatic,fwd,sedan,grey
+14900,2007,chevrolet,silverado 1500,excellent,gas,clean,automatic,rwd,pickup,red
+6499,2011,mitsubishi,outlander,excellent,gas,clean,automatic,fwd,SUV,red
+4150,2005,jeep,grand cherokee,good,gas,clean,automatic,4wd,SUV,red
+13999,2014,ford,escape,excellent,gas,clean,automatic,4wd,SUV,blue
+9975,2012,mercedes-benz,c250,good,gas,clean,automatic,rwd,sedan,black
+6890,2013,nissan,altima,excellent,gas,clean,automatic,fwd,sedan,red
+10500,2013,kia,optima,excellent,gas,clean,automatic,fwd,sedan,silver
+19600,2016,gmc,acadia,excellent,gas,clean,automatic,4wd,SUV,white
+6500,2008,honda,odyssey ex-l,good,gas,rebuilt,automatic,fwd,mini-van,grey
+24990,2008,ford,econoline cargo van,good,gas,clean,automatic,rwd,truck,white
+24900,2017,honda,cr-v,like new,gas,clean,automatic,fwd,SUV,silver
+28500,2011,ram,2500,excellent,gas,clean,automatic,4wd,truck,black
+5900,2003,toyota,rav4,excellent,gas,clean,automatic,fwd,SUV,white
+2800,1995,ford,f-150,good,gas,clean,automatic,rwd,pickup,green
+2999,2002,toyota,camry,excellent,gas,clean,automatic,fwd,sedan,silver
+14500,2006,ford,f450 4x4,excellent,diesel,clean,automatic,4wd,truck,white
+23590,2014,chevrolet,camaro lt coupe 2d,good,gas,clean,other,rwd,coupe,red
+28990,2016,jeep,wrangler unlimited sahara,good,gas,clean,other,4wd,SUV,red
+18995,2013,chevrolet,equinox lt,excellent,gas,clean,automatic,fwd,other,custom
+1234,1955,chevrolet,bel air,excellent,gas,clean,automatic,rwd,sedan,green
+12495,2015,ford,escape se,excellent,gas,clean,automatic,fwd,SUV,red
+15590,2016,chevrolet,cruze limited 1lt,good,gas,clean,other,fwd,sedan,white
+42900,2013,ford,super duty f-250 srw,excellent,diesel,clean,automatic,4wd,truck,black
+4500,2004,cadillac,cts,good,gas,clean,automatic,rwd,sedan,white
+10985,2007,bmw,5 series,excellent,gas,clean,automatic,rwd,sedan,grey
+17990,2019,fiat,500 pop hatchback 2d,good,gas,clean,other,fwd,hatchback,white
+11988,2008,infiniti,g37 coupe,good,gas,clean,automatic,rwd,coupe,grey
+12947,2013,volkswagen,passat,excellent,diesel,clean,automatic,fwd,sedan,black
+8000,2011,honda,accord,good,gas,clean,automatic,fwd,sedan,blue
+2500,2008,bmw,550i,like new,gas,clean,automatic,rwd,sedan,black
+7995,2010,dodge,grand caravan sxt,good,gas,clean,automatic,fwd,mini-van,silver
+3499,1995,ford,explorer,excellent,gas,clean,automatic,4wd,SUV,blue
+15590,2018,chevrolet,cruze ls sedan 4d,good,other,clean,other,fwd,sedan,red
+44900,2015,chevrolet,silverado 2500hd,like new,diesel,clean,automatic,4wd,pickup,grey
+37999,2018,jeep,wrangler,like new,gas,clean,automatic,4wd,SUV,black
+9995,2013,ford,escape,good,gas,clean,automatic,fwd,wagon,custom
+39500,2019,honda,passport elite,like new,gas,clean,automatic,4wd,SUV,silver
+11995,2015,nissan,altima ￼,new,gas,clean,automatic,fwd,sedan,black
+29990,2016,chevrolet,colorado extended cab,good,gas,clean,other,4wd,pickup,red
+12450,2017,kia,forte,excellent,gas,clean,automatic,fwd,sedan,black
+25590,2017,jaguar,xf 20d premium sedan 4d,good,other,clean,automatic,rwd,sedan,white
+10999,2012,toyota,camry le,like new,gas,clean,automatic,fwd,sedan,black
+30990,2017,chrysler,pacifica touring-l plus,good,other,clean,other,fwd,van,silver
+3500,2007,dodge,nitro,excellent,gas,clean,automatic,4wd,SUV,red
+12000,2014,ford,fiesta st,excellent,gas,clean,manual,fwd,hatchback,black
+3800,2006,toyota,avalon,good,gas,clean,automatic,fwd,sedan,green
+10000,2012,bmw,528i,excellent,gas,clean,automatic,4wd,sedan,black
+800,2006,kia,sedona,fair,gas,clean,automatic,fwd,mini-van,blue
+8900,2007,chevrolet,silverado 1500 z71,good,gas,clean,automatic,4wd,mini-van,blue
+24500,1970,buick,gs 455 4 speed,good,gas,clean,manual,rwd,coupe,purple
+22900,2017,ford,transit 150 cargo van,like new,gas,clean,automatic,rwd,van,white
+11000,2013,nissan,pathfinder sl,good,gas,clean,other,fwd,SUV,yellow
+14995,2017,honda,fit,excellent,gas,clean,automatic,fwd,hatchback,grey
+5299,2011,mazda,cx-7,excellent,gas,clean,automatic,fwd,SUV,silver
+17990,2018,toyota,corolla le sedan 4d,good,gas,clean,other,fwd,sedan,white
+4450,1997,ford,f-150,excellent,gas,clean,automatic,rwd,pickup,green
+11995,2000,ford,f250 super duty xlt,good,gas,clean,automatic,4wd,truck,white
+3995,2005,chrysler,pt cruiser,like new,gas,clean,automatic,fwd,hatchback,brown
+17200,2015,honda,cr-v,excellent,gas,rebuilt,automatic,4wd,SUV,grey
+5000,2000,mercedes-benz,benz clk 320,like new,gas,clean,automatic,fwd,other,silver
+20990,2019,buick,encore preferred sport,good,gas,clean,other,fwd,SUV,black
+26899,2014,chevrolet,silverado 1500,excellent,gas,clean,automatic,4wd,truck,silver
+32990,2017,lincoln,navigator reserve sport,good,gas,clean,automatic,4wd,SUV,black
+11900,2015,lincoln,mkz hybrid,excellent,hybrid,clean,automatic,fwd,sedan,grey
+11800,2017,toyota,prius,like new,gas,clean,automatic,fwd,wagon,white
+8997,2013,chevrolet,impala ppv,like new,gas,clean,automatic,fwd,sedan,black
+21590,2018,acura,ilx premium pkg sedan 4d,good,gas,clean,other,fwd,sedan,white
+10000,2008,pontiac,g8,excellent,gas,clean,automatic,rwd,sedan,black
+15495,2016,infiniti,q70,like new,gas,clean,automatic,rwd,SUV,silver
